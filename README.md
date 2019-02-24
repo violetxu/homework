@@ -1,0 +1,2 @@
+# homework
+Smith fomular 
